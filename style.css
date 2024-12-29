@@ -140,6 +140,7 @@ nav .log {
   max-width: 1120px;
   margin: auto;
   padding: 90px 0;
+  overflow: hidden;
 }
 @media (max-width: 863px) {
   .main-section {
