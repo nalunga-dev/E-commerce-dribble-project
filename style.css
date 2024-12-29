@@ -51,7 +51,7 @@ nav form {
 }
 @media (max-width: 1217px) {
   nav form {
-    padding: 0.5rem 0;
+    padding: 0.3rem 0;
   }
 }
 @media (max-width: 972px) {
@@ -389,7 +389,6 @@ nav .log {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #ea4c89;
 }
 .main-section .sixth-section .thirdc {
   display: flex;
@@ -477,7 +476,7 @@ nav .log {
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
-  color: #cacae4;
+  color: #b5b5e1;
   padding: 6rem 0;
   font-weight: bolder;
 }
@@ -527,7 +526,8 @@ nav .log {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  color: #cacae4;
+  color: #b8b8de;
+  font-weight: bolder;
 }
 @media (max-width: 770px) {
   .main-section footer .last2 {
