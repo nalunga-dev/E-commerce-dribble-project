@@ -47,11 +47,11 @@ nav form {
   font-size: 1rem;
   border-radius: 2rem;
   color: black;
-  width: 40%;
+  width: 38%;
 }
 @media (max-width: 1217px) {
   nav form {
-    padding: 0.7rem 0;
+    padding: 0.5rem 0;
   }
 }
 @media (max-width: 972px) {
@@ -171,6 +171,7 @@ nav .log {
 @media (max-width: 435px) {
   .main-section .first-section form {
     gap: 0.4rem;
+    width: 100%;
   }
 }
 .main-section .first-section form input {
@@ -191,7 +192,8 @@ nav .log {
 }
 @media (max-width: 435px) {
   .main-section .first-section form input {
-    width: 58%;
+    width: 64%;
+    padding-left: 0.9rem;
   }
 }
 .main-section .first-section form input .dribb1 {
@@ -387,12 +389,13 @@ nav .log {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: #ea4c89;
 }
 .main-section .sixth-section .thirdc {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 0.7rem;
+  gap: 0.9rem;
   display: none;
 }
 @media (max-width: 915px) {
@@ -474,7 +477,7 @@ nav .log {
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
-  color: #676666;
+  color: #cacae4;
   padding: 6rem 0;
   font-weight: bolder;
 }
@@ -524,7 +527,7 @@ nav .log {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  color: gray;
+  color: #cacae4;
 }
 @media (max-width: 770px) {
   .main-section footer .last2 {
