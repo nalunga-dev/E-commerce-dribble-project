@@ -321,8 +321,9 @@
     align-items: center;
     justify-content: center;
     gap: 0.5rem;
-    color: #c6c1c1;
-    padding: 8rem 0;
+    color: #676666;
+    padding: 6rem 0;
+    font-weight: bolder;
   }
   footer {
     // background-color: #ea4c89;
@@ -349,6 +350,18 @@
       .lastc {
         display: flex;
         gap: 0.5rem;
+        .bxl-twitter {
+          font-size: 1.5rem;
+        }
+        .bxl-facebook-square {
+          font-size: 1.5rem;
+        }
+        .bxl-instagram {
+          font-size: 1.5rem;
+        }
+        .bxs-registered {
+          font-size: 1.5rem;
+        }
       }
     }
     .last2 {

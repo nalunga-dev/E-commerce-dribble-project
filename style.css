@@ -474,8 +474,9 @@ nav .log {
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
-  color: #c6c1c1;
-  padding: 8rem 0;
+  color: #676666;
+  padding: 6rem 0;
+  font-weight: bolder;
 }
 .main-section footer {
   display: flex;
@@ -506,6 +507,18 @@ nav .log {
 .main-section footer .last .lastc {
   display: flex;
   gap: 0.5rem;
+}
+.main-section footer .last .lastc .bxl-twitter {
+  font-size: 1.5rem;
+}
+.main-section footer .last .lastc .bxl-facebook-square {
+  font-size: 1.5rem;
+}
+.main-section footer .last .lastc .bxl-instagram {
+  font-size: 1.5rem;
+}
+.main-section footer .last .lastc .bxs-registered {
+  font-size: 1.5rem;
 }
 .main-section footer .last2 {
   display: flex;
