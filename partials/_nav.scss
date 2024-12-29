@@ -1,0 +1,115 @@
+nav {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  align-items: center;
+  font-weight: bolder;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  .bx-menu-alt-left {
+    display: none;
+    @media (max-width: 1065px) {
+      display: block;
+      font-size: 3rem;
+      font-weight: bolder;
+    }
+  }
+  .Dribb {
+    font-size: 2rem;
+    font-family: "Nunito Sans", serif;
+  }
+  form {
+    background-color: #f3f3f6;
+    display: flex;
+    align-items: center;
+    padding: 0.3rem 0.2rem;
+    gap: 0.8rem;
+    font-size: 1rem;
+    border-radius: 2rem;
+    color: black;
+    width: 40%;
+    @media (max-width: 1217px) {
+      // width: 45%;
+      padding: 0.7rem 0;
+    }
+    @media (max-width: 972px) {
+      width: 40%;
+    }
+    @media (max-width: 872px) {
+      display: none;
+    }
+    input {
+      border: none;
+      outline: none;
+      padding-left: 0.8rem;
+      background-color: #f3f3f6;
+      width: 69%;
+      @media (max-width: 1217px) {
+        width: 65%;
+        padding-left: 0.7rem;
+      }
+      @media (max-width: 972px) {
+        width: 55%;
+      }
+      .dribb1 {
+        font-weight: bolder;
+        font-size: 1.2rem;
+      }
+      .bx-chevron-down {
+        font-size: 1.1rem;
+      }
+    }
+    .down {
+      background-color: #ea4c89;
+      width: 45px;
+      height: 45px;
+      border-radius: 50%;
+      border: none;
+      .bx-search {
+        font-size: 1.5rem;
+        color: white;
+      }
+    }
+  }
+  .ex {
+    @media (max-width: 1217px) {
+      display: none;
+      // color: white;
+    }
+  }
+  .hire {
+    @media (max-width: 1217px) {
+      display: none;
+      // color: white;
+    }
+  }
+  .Jobs {
+    color: black;
+    @media (max-width: 1214px) {
+      display: none;
+      // color: white;
+    }
+  }
+  .job1 {
+    @media (max-width: 1214px) {
+      display: none;
+      // color: white;
+    }
+  }
+  .up {
+    @media (max-width: 790px) {
+      display: none;
+      // color: white;
+    }
+  }
+  .log {
+    border: none;
+    padding: 1rem;
+    background-color: black;
+    color: white;
+    border-radius: 1.5rem;
+  }
+}
