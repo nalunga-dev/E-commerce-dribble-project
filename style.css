@@ -143,29 +143,29 @@ nav .log {
   border-radius: 1.5rem;
 }
 
-.main-section {
+.beauty-section {
   max-width: 1120px;
   margin: auto;
   padding: 90px 0;
   overflow: hidden;
 }
 @media (max-width: 863px) {
-  .main-section {
+  .beauty-section {
     margin: 0 auto;
     padding: 90px 0;
   }
 }
-.main-section .first-section {
+.beauty-section .first-section {
   padding: 2rem;
   display: none;
 }
 @media (max-width: 863px) {
-  .main-section .first-section {
+  .beauty-section .first-section {
     display: block;
     padding: 0rem 0.5rem;
   }
 }
-.main-section .first-section form {
+.beauty-section .first-section form {
   background-color: #f3f3f6;
   display: flex;
   align-items: center;
@@ -177,80 +177,80 @@ nav .log {
   width: 100%;
 }
 @media (max-width: 435px) {
-  .main-section .first-section form {
+  .beauty-section .first-section form {
     gap: 0.4rem;
     width: 100%;
   }
 }
-.main-section .first-section form input {
+.beauty-section .first-section form input {
   border: none;
   outline: none;
   background-color: #f3f3f6;
   width: 80%;
 }
 @media (max-width: 727px) {
-  .main-section .first-section form input {
+  .beauty-section .first-section form input {
     width: 75%;
   }
 }
 @media (max-width: 587px) {
-  .main-section .first-section form input {
+  .beauty-section .first-section form input {
     width: 65%;
   }
 }
 @media (max-width: 435px) {
-  .main-section .first-section form input {
+  .beauty-section .first-section form input {
     width: 64%;
     padding-left: 0.9rem;
   }
 }
-.main-section .first-section form input .dribb1 {
+.beauty-section .first-section form input .dribb1 {
   font-weight: bolder;
   font-size: 1.2rem;
 }
-.main-section .first-section form input .bx-chevron-down {
+.beauty-section .first-section form input .bx-chevron-down {
   font-size: 1.1rem;
 }
-.main-section .first-section form .down {
+.beauty-section .first-section form .down {
   background-color: #ea4c89;
   width: 45px;
   height: 45px;
   border-radius: 50%;
   border: none;
 }
-.main-section .first-section form .down .bx-search {
+.beauty-section .first-section form .down .bx-search {
   font-size: 1.5rem;
   color: white;
 }
-.main-section .introduction {
+.beauty-section .introduction {
   background-color: white;
   width: 100%;
   padding-top: 3rem;
 }
 @media (max-width: 863px) {
-  .main-section .introduction {
+  .beauty-section .introduction {
     padding: 1rem 0.5rem;
   }
 }
-.main-section .introduction .eee {
+.beauty-section .introduction .eee {
   color: black;
 }
-.main-section .second-section {
+.beauty-section .second-section {
   display: flex;
   align-content: center;
   justify-content: space-between;
   padding: 2rem 0rem;
 }
 @media (max-width: 863px) {
-  .main-section .second-section {
+  .beauty-section .second-section {
     padding: 1rem 0.5rem;
   }
 }
-.main-section .second-section .seconda {
+.beauty-section .second-section .seconda {
   display: flex;
   gap: 0.5rem;
 }
-.main-section .second-section .seconda .awsmd {
+.beauty-section .second-section .seconda .awsmd {
   width: 60px;
   background-color: #f3f3f6;
   height: 60px;
@@ -258,27 +258,27 @@ nav .log {
      object-fit: cover;
   border-radius: 50%;
 }
-.main-section .second-section .seconda .awsmd1 {
+.beauty-section .second-section .seconda .awsmd1 {
   display: flex;
   flex-direction: column;
   gap: 0.4rem;
 }
 @media (max-width: 435px) {
-  .main-section .second-section .seconda .awsmd1 {
+  .beauty-section .second-section .seconda .awsmd1 {
     font-size: 0.8rem;
   }
 }
-.main-section .second-section .seconda .awsmd1 .foll {
+.beauty-section .second-section .seconda .awsmd1 .foll {
   color: black;
 }
-.main-section .second-section .seconda .awsmd1 .Ava {
+.beauty-section .second-section .seconda .awsmd1 .Ava {
   color: green;
 }
-.main-section .second-section .secondb {
+.beauty-section .second-section .secondb {
   display: flex;
   gap: 0.5rem;
 }
-.main-section .second-section .secondb .heart {
+.beauty-section .second-section .secondb .heart {
   background-color: white;
   width: 45px;
   height: 45px;
@@ -287,14 +287,14 @@ nav .log {
   font-size: 1rem;
   font-weight: bolder;
 }
-.main-section .second-section .secondb .heart2 {
+.beauty-section .second-section .secondb .heart2 {
   background-color: white;
   width: 45px;
   height: 45px;
   border-radius: 50%;
   border: 1px solid rgba(128, 128, 128, 0.402);
 }
-.main-section .second-section .secondb .get {
+.beauty-section .second-section .secondb .get {
   border: none;
   background-color: #0d0c22;
   color: white;
@@ -303,24 +303,24 @@ nav .log {
   height: 40px;
 }
 @media (max-width: 771px) {
-  .main-section .second-section .secondb .get {
+  .beauty-section .second-section .secondb .get {
     display: none;
   }
 }
-.main-section .third-section {
+.beauty-section .third-section {
   width: 100%;
   border-radius: 0.5rem;
 }
-.main-section .third-section video {
+.beauty-section .third-section video {
   width: 100%;
   height: auto;
   border-radius: 0.5rem;
 }
-.main-section .third-section .thirda {
+.beauty-section .third-section .thirda {
   width: 100%;
   border-radius: 0.5rem;
 }
-.main-section .third-section .thirdb {
+.beauty-section .third-section .thirdb {
   display: flex;
   flex-direction: column;
   gap: 0.7rem;
@@ -329,26 +329,26 @@ nav .log {
   right: 3%;
 }
 @media (max-width: 1290px) {
-  .main-section .third-section .thirdb {
+  .beauty-section .third-section .thirdb {
     display: none;
   }
 }
-.main-section .third-section .thirdb .search {
+.beauty-section .third-section .thirdb .search {
   width: 40px;
   height: 40px;
   border: 1px solid rgba(128, 128, 128, 0.384);
   border-radius: 50%;
   background-color: white;
 }
-.main-section .fourth-section {
+.beauty-section .fourth-section {
   width: 100%;
   padding-top: 3rem;
 }
-.main-section .fourth-section .fourth {
+.beauty-section .fourth-section .fourth {
   width: 100%;
   border-radius: 0.5rem;
 }
-.main-section .fifth-section {
+.beauty-section .fifth-section {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
@@ -362,80 +362,80 @@ nav .log {
   font-weight: normal;
 }
 @media (max-width: 990px) {
-  .main-section .fifth-section {
+  .beauty-section .fifth-section {
     font-size: 1rem;
     padding-left: 0;
   }
 }
-.main-section .fifth-section .fiftha {
+.beauty-section .fifth-section .fiftha {
   display: flex;
   align-items: center;
   gap: 0.3rem;
 }
-.main-section .fifth-section .fiftha .bxs-heart {
+.beauty-section .fifth-section .fiftha .bxs-heart {
   color: red;
 }
-.main-section .fifth-section .fiftha .awse {
+.beauty-section .fifth-section .fiftha .awse {
   font-weight: bolder;
 }
-.main-section .fifth-section .fifthb {
+.beauty-section .fifth-section .fifthb {
   border-radius: 0.5rem;
   width: 100%;
 }
 @media (max-width: 690px) {
-  .main-section .fifth-section .fifthb {
+  .beauty-section .fifth-section .fifthb {
     padding: 0 1rem;
   }
 }
 @media (max-width: 370px) {
-  .main-section .fifth-section .fifthb {
+  .beauty-section .fifth-section .fifthb {
     padding: 0 0.5rem;
   }
 }
-.main-section .fifth-section .fifthb video {
+.beauty-section .fifth-section .fifthb video {
   border-radius: 0.5rem;
   width: 100%;
 }
 @media (max-width: 653px) {
-  .main-section .fifth-section .fifthb video {
+  .beauty-section .fifth-section .fifthb video {
     width: 550px;
     height: 180px;
   }
 }
 @media (max-width: 571px) {
-  .main-section .fifth-section .fifthb video {
+  .beauty-section .fifth-section .fifthb video {
     width: 480px;
     height: 180px;
   }
 }
 @media (max-width: 501px) {
-  .main-section .fifth-section .fifthb video {
+  .beauty-section .fifth-section .fifthb video {
     width: 400px;
     height: 180px;
   }
 }
 @media (max-width: 423px) {
-  .main-section .fifth-section .fifthb video {
+  .beauty-section .fifth-section .fifthb video {
     width: 370px;
     height: 170px;
   }
 }
 @media (max-width: 387px) {
-  .main-section .fifth-section .fifthb video {
+  .beauty-section .fifth-section .fifthb video {
     width: 330px;
     height: 170px;
   }
 }
 @media (max-width: 492px) {
-  .main-section .fifth-section {
+  .beauty-section .fifth-section {
     font-size: 0.7rem;
   }
 }
-.main-section .com {
+.beauty-section .com {
   border-right: 4px solid black;
   padding-right: 0.5rem;
 }
-.main-section .com1 {
+.beauty-section .com1 {
   border-right: 4px solid black;
   padding-right: 0.5rem;
 }
